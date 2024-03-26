@@ -1,5 +1,7 @@
 # THP _ Google homepage
 
-THP Lab - Recreate the Google homepage
+This is a lab from [THP](https://www.thehackingproject.org/?locale=fr)
+
+Recreate the Google homepage
 
 
