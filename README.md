@@ -1,2 +1,5 @@
-# THP_google_homepage
-THP Lab - Create the Google homepage
+# THP _ Google homepage
+
+THP Lab - Recreate the Google homepage
+
+
